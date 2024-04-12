@@ -1,0 +1,91 @@
+#
+# Configuration File
+#
+
+# Enable additional diagnostics
+verbose: true
+profile: true
+
+# Information for compile
+exclude:
+  - "CNAME"
+  - "LICENSE"
+  - "README.md"
+  - "DEVELOPMENT.md"
+  - "ATTRIBUTIONS.md"
+  - "_posts/README.md"
+  - "*.js"
+  - "*.json"
+  - "*.psd"
+  - "*.ai"
+  - "assets/images/favicon/*.webmanifest"
+  - "assets/images/favicon/*.md"
+  - "assets/images/favicon/*.html"
+  - "assets/images/favicon/*.xml"
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+
+# Sass configuration
+sass:
+  sass_dir: _scss
+
+# Collections
+collections_dir: _collections
+collections:
+  team_owners:
+    sort_by: order
+    member_type: owner
+  vcards:
+    sort_by: order
+    output: true
+
+# Information for deploy
+baseurl: ""
+
+# the base hostname & protocol for your site
+url: "https://hairbylisacardillo.com"
+
+assets_path:  assets
+css_path:     assets/css
+images_path:  assets/images
+vcards_path:  assets/vcards
+
+##
+## HEADER INFORMATION
+##
+
+# This is the site title
+title: Hair By Lisa Cardillo
+# This is the site description - must be between 25 and 160 characters for Bing SEO
+description: >
+  Lisa Cardillo is one of the best Hair Stylists in the Kissimmee, Florida
+  area. She mentors other stylists and is licensed in New York, Maryland, and Florida.
+
+# Website language
+lang: en-US
+# Header Title
+header-title: Hair By Lisa Cardillo
+# Header Tagline
+header-tagline1: Master Colorist and Hair Stylist
+header-tagline2: Working and Living in Kissimmee, FL
+
+# The general contact default email address
+email: hairbylisacardillo@gmail.com
+
+##
+## Global Images
+##
+default-image: default.webp
+email-icon: icons/email.svg
+link-icon: icons/link.svg
+instagram-icon: icons/instagram.svg
+linkedin-icon: icons/linkedin.svg
+
+#
+##
+## Footer
+##
+footer-copyright-text: Lisa Cardillo
+footer-copyright-year: 2024
