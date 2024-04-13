@@ -30,16 +30,24 @@
       <br>
       <br>
       <div class="row justify-content-center" itemscope itemtype="https://schema.org/LocalBusiness">
+        <meta itemprop="name" content="Hair By Lisa Cardillo">
+        <div class="d-none" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+          <span itemprop="streetAddress">1617 E Vine St</span>
+          <span itemprop="addressLocality">Kissimmee</span>,
+          <span itemprop="addressRegion">FL</span>
+          <span itemprop="postalCode">34744</span>
+        </div>
+        <div class="d-none" itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates">
+          <meta itemprop="latitude" content="28.303201505096695" />
+          <meta itemprop="longitude" content="-81.3779173957028" />
+        </div>      
         <div class="social-icons w-auto">
           <ol class="icons text-start">
             <li>
-              <span itemprop="name">Hair By Lisa Cardillo</span>
+              <span itemprop="telephone"><a href="tel:+1407-887-7776" title="407-887-7776"><img src="{% link {{ site.images_path }}/{{ site.phone-icon }} %}" alt="Phone Icon" height="100" width="100">&nbsp; 407-8877-PRO</a></span>
             </li>
             <li>
-              <span itemprop="telephone"><a href="tel:+1407-887-7776"><img src="{% link {{ site.images_path }}/{{ site.phone-icon }} %}" alt="Phone Icon" height="100" width="100">&nbsp; 407-8877-PRO (407-887-7776)</a></span>
-            </li>
-            <li>
-              <span itemprop="email"><a href="mailto:hairbylisacardillo@gmail.com?subject=Appointment%20or%20Consultation" target="_blank"><img src="{% link {{ site.images_path }}/{{ site.email-icon }} %}" alt="Email Icon" height="100" width="100">&nbsp; hairbylisacardillo@gmail.com</a></span>
+              <span itemprop="email"><a href="mailto:hairbylisacardillo@gmail.com?subject=Appointment%20or%20Consultation" target="_blank" title="hairbylisacardillo@gmail"><img src="{% link {{ site.images_path }}/{{ site.email-icon }} %}" alt="Email Icon" height="100" width="100">&nbsp; hairbylisacardillo</a></span>
             </li>
           </ol>
         </div>
