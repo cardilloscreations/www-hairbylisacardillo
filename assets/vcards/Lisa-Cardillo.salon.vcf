@@ -1,22 +1,21 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//macOS 13.4.1//EN
+PRODID:-//Apple Inc.//macOS 14.4.1//EN
 N:Cardillo;Lisa;;;
 FN:Lisa Cardillo
-ORG:Cocoa Color Lab Salon;
-TITLE:Owner & Lead Stylist
-item1.EMAIL;type=INTERNET;type=pref:hello@cocoacolorlab.salon
+ORG:Hair By Lisa Cardillo;
+TITLE:Master Stylist
+item1.EMAIL;type=INTERNET;type=pref:hairbylisacardillo@gmail.com
 item1.X-ABLabel:Salon Email
-item2.EMAIL;type=INTERNET:lisa@cocoacolorlab.salon
-item2.X-ABLabel:Direct Email
-item3.TEL;type=pref:1-321-621-4247
-item3.X-ABLabel:Salon Phone
-ADR;type=pref:;;2323 N. Cocoa Blvd;Cocoa;FL;32922;U.S.A.
-item4.URL;type=pref:https://cocoacolorlab.salon/
+item2.TEL;type=pref:+1 (407) 887-7776
+item2.X-ABLabel:Salon Phone
+item3.ADR;type=pref:;;1617 E. Vine St;Kissimmee;FL;34744;U.S.A.
+item3.X-ABLabel:Salon Address
+item4.URL;type=pref:https://hairbylisacardillo.com
 item4.X-ABLabel:Salon Homepage
-item5.URL:https://cocoacolorlab.salon/vcards/lisa
+item5.URL:https://hairbylisacardillo.com/vcards/lisa
 item5.X-ABLabel:Virtual Card
-item6.URL:https://book.cocoacolorlab.salon/
+item6.URL:https://book.hairbylisacardillo.com
 item6.X-ABLabel:Book Online
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
  AAgABAEaAAUAAAABAAAAPgEbAAUAAAABAAAARgEoAAMAAAABAAIAAIdpAAQAAAABAAAATgAAAA

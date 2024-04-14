@@ -78,9 +78,10 @@ email: hairbylisacardillo@gmail.com
 ## Global Images
 ##
 default-image: default.webp
+link-icon: icons/link.svg
 email-icon: icons/email.svg
 phone-icon: icons/phone.svg
-link-icon: icons/link.svg
+calendar-icon: icons/calendar.svg
 instagram-icon: icons/instagram.svg
 linkedin-icon: icons/linkedin.svg
 
