@@ -32,7 +32,7 @@ sass:
   sass_dir: _scss
 
 # Collections
-collections_dir: _collections
+collections_dir: collections
 collections:
   team_owners:
     sort_by: order
@@ -40,6 +40,8 @@ collections:
   vcards:
     sort_by: order
     output: true
+
+excerpt_separator: <!--excerpt-->
 
 # Information for deploy
 baseurl: ""
@@ -82,8 +84,14 @@ link-icon: icons/link.svg
 email-icon: icons/email.svg
 phone-icon: icons/phone.svg
 calendar-icon: icons/calendar.svg
+facebook-icon: icons/facebook.svg
 instagram-icon: icons/instagram.svg
-linkedin-icon: icons/linkedin.svg
+
+##
+## Global Social Links
+##
+facebook: https://www.facebook.com/HairByLisaCardillo/
+instagram: https://www.instagram.com/HairByLisaCardillo/
 
 #
 ##

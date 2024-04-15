@@ -39,10 +39,6 @@ $color-navbar-bg: #222222;
 $color-navbar-text-active: $color-white;
 $color-navbar-text: darken($color-navbar-text-active, 30%);
 
-// Sidebar Colors [Widgets]
-$color-sidebar-title: $color-light-secondary;
-$color-sidebar-header: $color-light-blue;
-
 // Footer Colors
 $color-footer-bg-darker: $color-dark-bg;
 $color-footer-bg-lighter: lighten($color-dark-bg, 4%);
