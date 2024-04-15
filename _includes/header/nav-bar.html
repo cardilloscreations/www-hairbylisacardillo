@@ -19,13 +19,28 @@
           <a class="nav-link" href="{{ site.baseurl }}/#about">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/our-team">Team</a>
+          <a
+          {%- if page.path == "our-team.html" %}
+          class="nav-link active" aria-current="page"
+          {% else %}
+          class="nav-link"
+          {% endif -%} href="{% link our-team.html %}">Team</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/gallery">Gallery</a>
+          <a
+          {%- if page.path == "gallery.html" %}
+          class="nav-link active" aria-current="page"
+          {% else %}
+          class="nav-link"
+          {% endif -%} href="{% link gallery.html %}">Gallery</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl }}/posts">Posts</a>
+          <a
+          {%- if page.path == "posts.html" %}
+          class="nav-link active" aria-current="page"
+          {% else %}
+          class="nav-link"
+          {% endif -%} href="{% link posts.html %}">Posts</a>
         </li>
       </ul>
     </div>
