@@ -13,7 +13,7 @@ description: >
   </p>
   </section>
   <!--excerpt-->
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="what-are-highlights">
   What are Hair Highlights?
   </h3>
   <section>
@@ -21,7 +21,7 @@ description: >
     Hair highlights are a hair coloring technique that creates a multi-dimensional effect by lightening specific sections of your hair. These lighter strands stand out from your base color, adding depth, texture, and a beautiful shine. Highlights can be subtle for a natural look, or bold and dramatic for a more striking statement.
     </p>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="best-highlights">
   What Types of Hair Highlights Are Best?
   </h3>
   <section>
@@ -41,7 +41,7 @@ description: >
     <b>Balayage (bah-lay-ahge):</b>This hair highlighting technique involves using clay lighteners that are hand-painted onto hair's surface, creating a soft, blended effect that mimics sun-kissed strands. Unlike traditional highlights with foils, balayage avoids harsh lines for a more natural look.
     </ul>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="benefits-of-highlights">
   Benefits of Getting Hair Highlights:
   </h3>
   <section>
@@ -61,7 +61,7 @@ description: >
     <b>Lower Maintenance Options:</b> Some highlighting techniques, like balayage and babylights, require less frequent touch-ups compared to full head coloring.
     </ul>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="finding-highlights">
   Finding the Perfect Highlights for You
   </h3>
   <section>

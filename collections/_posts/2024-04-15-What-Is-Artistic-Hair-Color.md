@@ -11,7 +11,7 @@ description: >
   Artistic hair color? It's not just for punks anymore! Whether a splash of red hair or a full head of blue hair, vibrant hair colors are more popular than ever. It can be strong and bold or subtle and daring, the choice is yours.
   </section>
   <!--excerpt-->
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="what-is-artistic-color">
     What is Artistic Hair Color?
   </h3>
   <section>
@@ -36,7 +36,7 @@ description: >
     </li>
     </ul>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="who-can-have-artistic-color">
     Who Can Wear Artistic Hair Color?
   </h3>
   <section>
@@ -44,7 +44,7 @@ description: >
     Anyone! As long as you're comfortable rocking a non-traditional shade, there's an artistic hair color out there for you. Remember, you don't have to go all the way with a full head of color or vibrant bold colors. There are many ways to use vibrant colors that are elegant and refined, while still making a statement.
     </p>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="special-considerations">
     Special Considerations For Vibrant Hair Color
   </h3>
   <section>
@@ -63,7 +63,7 @@ description: >
     </li>
     </ul>
   </section>  
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="ready-to-contact">
     Ready To Take The Plunge?
   </h3>
   <section>

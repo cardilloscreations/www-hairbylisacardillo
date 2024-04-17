@@ -11,7 +11,7 @@ description: >
   Searching for the best hair stylist in Kissimmee? Your quest ends here! Lisa Cardillo, a renowned colorist and stylist, possesses the expertise to elevate your hair game to stunning new heights.
   </section>
   <!--excerpt-->
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="why-lisa">
     Why Choose Lisa Cardillo?
   </h3>
   <section>
@@ -30,7 +30,7 @@ description: >
     </li>
     </ul>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="difference">
     Ready to Experience the Lisa Cardillo Difference?
   </h3>
   <section>

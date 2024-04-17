@@ -11,7 +11,7 @@ description: >
   Are you looking for the best gray hair stylist? Lisa Cardillo specializes in gray blending, a hair coloring technique for older clients that complements silver strands for a stylish look that's affordable, easy to maintain, and helps keep your hair healthy!
   </section>
   <!--excerpt-->
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="what-is-grey-blending">
   What is Gray Blending?
   </h3>
   <section>
@@ -23,7 +23,7 @@ description: >
     Instead of completely covering greys, grey blending uses a combination of highlights, lowlights, and your natural hair color to create a rich dimensional and multi-toned effect. This approach softens the contrast between your grays and your base color, resulting in a more natural and youthful look.
     </p>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="why-grey-blending">
   Why Choose Gray Blending?
   </h3>
   <section>
@@ -45,7 +45,7 @@ description: >
     </li>
     </ul>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="good-candidate">
   Who is a Good Candidate for Gray Blending?
   </h3>
   <section>
@@ -53,7 +53,7 @@ description: >
     Gray blending works well on a variety of hair colors, from blonde to brunette. It's particularly well-suited for clients with some natural graying, but can also be adapted for those who want to add silver highlights for a dimensional effect.
     </p>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="ready-to-embrace">
   Ready to Embrace the Gray?
   </h3>
   <section>

@@ -13,7 +13,7 @@ description: >
   </p>
   </section>
   <!--excerpt-->
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="what-it-keratin">
   What is Keratin Straightening?
   </h3>
   <section>
@@ -35,7 +35,7 @@ description: >
     </li>
     </ul>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="benefits-of-keratin">
   Benefits of Keratin Straightening:
   </h3>
   <section>
@@ -55,7 +55,7 @@ description: >
     <b>Stronger hair (potentially):</b> Keratin can add a protective layer, minimizing breakage for healthier-looking hair.
     </ul>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="benefits-of-straightening">
   Benefits of Keratin Straightening:
   </h3>
   <section>
@@ -75,7 +75,7 @@ description: >
     <b>Simple aftercare for lasting results:</b> Using sulfate-free shampoo and avoiding tight hairstyles for a few days will maximize the treatment's effects and help it last longer.
     </ul>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="read-to-experience">
   Ready to experience the joy of smooth, frizz-free hair? 
   </h3>
   <section>

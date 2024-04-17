@@ -11,7 +11,7 @@ description: >
   Lisa Cardillo is a Master Hair Stylist and Master Hair Colorist, providing <b>excellent services at reasonable prices</b> in Kissimmee, FL. This post explains some of the specialty services she provides, which make it worth the short drive to visit her.
   </section>
   <!--excerpt-->
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="why-lisa">
     Why Choose Lisa?
   </h3>
   <section>
@@ -25,7 +25,7 @@ description: >
     Lisa also listens to her clients carefully to understand their needs and then gives them her professional opinion about what would work best. She wants every client to leave her chair feeling beautiful and in love with their new look.
     </p>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="specialty-services">
     What Specialty Services Does Lisa Provide?
   </h3>
   <section>

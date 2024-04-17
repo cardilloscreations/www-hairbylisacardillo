@@ -11,7 +11,7 @@ description: >
   Lisa specializes in blond hair and uses various techniques to achieve a custom look that clients love. This post reviews some of the techniques and which ones are best to achieve professional results.
   </section>
   <!--excerpt-->
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="blonding">
     What Are Blonding Techniques?
   </h3>
   <section>
@@ -22,7 +22,7 @@ description: >
     The hair lightening techniques in most demand are: Highlights, Babylights, Balayage, Ombre, Dimensional Highlights, Platinum Blonde, and Grey Blends. Lisa regularly performs all of these services with consistently amazing results.
     </p>
   </section>
-  <h3 class="lead" id="what-are-binaural-beats">
+  <h3 class="lead" id="technique">
     Which Blonding Technique is Best?
   </h3>
   <section>
@@ -36,7 +36,7 @@ description: >
     Ultimately, the technique doesn't matter as much as having a stylist with the right artistic vision, experience with a wide variety of hair types, and the skills to be able to execute them correctly.
     </p>
   </section>  
-  <h3 class="lead" id="service-area">
+  <h3 class="lead" id="stylists">
     Can All Hair Stylists Lighten Hair?
   </h3>
   <section>
