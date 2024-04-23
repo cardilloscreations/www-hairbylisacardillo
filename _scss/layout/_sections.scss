@@ -45,7 +45,9 @@ section.site-section {
     blockquote {
       font-size: 1.15em;
       text-align: center;
-      text-align-last: center;
+      p, span {
+        text-align-last: center;
+      }
     }
   }
 

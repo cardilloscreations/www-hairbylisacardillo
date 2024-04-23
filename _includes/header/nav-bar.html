@@ -20,6 +20,14 @@
         </li>
         <li class="nav-item">
           <a
+          {%- if page.path == "services.html" %}
+          class="nav-link active" aria-current="page"
+          {% else %}
+          class="nav-link"
+          {% endif -%} href="{% link services.html %}">Services</a>
+        </li>
+        <li class="nav-item">
+          <a
           {%- if page.path == "our-team.html" %}
           class="nav-link active" aria-current="page"
           {% else %}

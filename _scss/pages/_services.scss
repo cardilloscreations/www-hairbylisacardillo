@@ -1,0 +1,15 @@
+/**
+ *  Related Section Style
+ **/
+
+section.site-section.services-section {
+  blockquote {
+    h5 {
+      color: $color-gray-5;
+      font-weight: bold;
+    }
+    p {
+      color: $color-gray-5;
+    }
+  }
+}

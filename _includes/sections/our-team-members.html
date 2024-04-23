@@ -7,7 +7,7 @@
       {%- for team_entry in include.members -%}
       {%- assign member_name = team_entry[0] -%}
       {%- assign member_data = team_entry[1] -%}
-      <div class="card text-center col-11 col-md-5">
+      <div class="card text-center col-11">
         {%- assign member_vcard = site.vcards | where: "team_entry.name", member_name | first -%}
         {%- if member_vcard.url -%}
         <a href="{{ member_vcard.url }}" aria-label="Link to vcard for {{ member_name }}">
