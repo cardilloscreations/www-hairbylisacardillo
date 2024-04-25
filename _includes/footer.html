@@ -8,12 +8,31 @@
         </div>
         <div class="social-icons">
           <ul class="icons">
-            <li><a href="{{ site.facebook }}" aria-label="Facebook" target="_blank">
+            <li>
+              <a href="tel:+1407-887-7776" title="407-887-7776" aria-label="Phone Number">
+                <img src="{% link {{ site.images_path }}/{{ site.phone-icon }} %}" alt="Phone Icon" height="100" width="100">
+              </a>
+            </li>
+            <li>
+              <a href="mailto:hairbylisacardillo@gmail.com?subject=Appointment%20or%20Consultation" aria-label="Email Address" target="_blank" title="hairbylisacardillo@gmail">
+                <img src="{% link {{ site.images_path }}/{{ site.email-icon }} %}" alt="Email Icon" height="100" width="100">
+              </a>
+            </li>
+            <li>
+              <a href="https://book.hairbylisacardillo.com" aria-label="Book Online" target="_blank" title="Online Booking">
+                <img src="{% link {{ site.images_path }}/{{ site.calendar-icon }} %}" alt="Booking Icon" height="100" width="100">
+              </a>
+            </li>
+            <li>
+              <a href="{{ site.facebook }}" aria-label="Facebook" target="_blank" title="Facebook">
                 <img src="{% link {{ site.images_path }}/{{ site.facebook-icon }} %}" alt="Facebook" height="100" width="100">
-              </a></li>
-            <li><a href="{{ site.instagram }}" aria-label="Instagram" target="_blank">
+              </a>
+            </li>
+            <li>
+              <a href="{{ site.instagram }}" aria-label="Instagram" target="_blank" title="Instagram">
                 <img src="{% link {{ site.images_path }}/{{ site.instagram-icon }} %}" alt="Instagram" height="100" width="100">
-              </a></li>
+              </a>
+            </li>
           </ul>
         </div>
       </div>

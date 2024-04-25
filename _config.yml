@@ -83,6 +83,7 @@ default-image: default.webp
 link-icon: icons/link.svg
 email-icon: icons/email.svg
 phone-icon: icons/phone.svg
+location-icon: icons/location.svg
 calendar-icon: icons/calendar.svg
 facebook-icon: icons/facebook.svg
 instagram-icon: icons/instagram.svg
@@ -97,6 +98,6 @@ instagram: https://www.instagram.com/HairByLisaCardillo/
 ##
 ## Footer
 ##
-footer-description: Follow Lisa on Social Media
+footer-description: Get In Touch
 footer-copyright-text: Lisa Cardillo
 footer-copyright-year: 2024
