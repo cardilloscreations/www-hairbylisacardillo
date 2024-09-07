@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Kissimmee's Best Hair Stylist: Unleash Your Hair's Hidden Potential with Lisa Cardillo"
-image: Best-Hair-Stylist-In-Kissimmee.webp
+title:  "Windermere's Best Hair Stylist: Unleash Your Hair's Hidden Potential with Lisa Cardillo"
+image: Best-Hair-Stylist-In-Windermere-Florida.webp
 description: >
-  Searching for the best hair stylist in Kissimmee? Your quest ends here! Lisa Cardillo, has the expertise to elevate your hair game to stunning new heights.
+  Searching for the best hair stylist in Windermere? Your quest ends here! Lisa Cardillo, has the expertise to elevate your hair game to stunning new heights.
 ---
 
 <div class="article-text">
   <section class="intro">
-  Searching for the best hair stylist in Kissimmee? Your quest ends here! Lisa Cardillo, a renowned colorist and stylist, possesses the expertise to elevate your hair game to stunning new heights.
+  Searching for the best hair stylist in Windermere? Your quest ends here! Lisa Cardillo, a renowned colorist and stylist, possesses the expertise to elevate your hair game to stunning new heights.
   </section>
   <!--excerpt-->
   <h3 class="lead" id="why-lisa">
@@ -17,7 +17,7 @@ description: >
   <section>
     <ul>
     <li>
-    <b>Kissimmee's Color & Style Master:</b> Lisa isn't just a colorist; she's a comprehensive stylist. She combines exceptional coloring techniques with masterful cutting and styling, ensuring a cohesive, stunning look.
+    <b>Windermere's Color & Style Master:</b> Lisa isn't just a colorist; she's a comprehensive stylist. She combines exceptional coloring techniques with masterful cutting and styling, ensuring a cohesive, stunning look.
     </li>
     <li>
     <b>Unmatched Client Consultations:</b> Lisa prioritizes understanding your hair goals, desired style, and lifestyle. Through in-depth consultations, she tailors a personalized plan to create hair you'll love, every day.
@@ -40,10 +40,10 @@ description: >
     <div class="row justify-content-center" itemscope itemtype="https://schema.org/LocalBusiness">
       <meta itemprop="name" content="Hair By Lisa Cardillo">
       <div class="d-none" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
-        <span itemprop="streetAddress">1617 E Vine St</span>
-        <span itemprop="addressLocality">Kissimmee</span>,
+        <span itemprop="streetAddress">625 Main St</span>
+        <span itemprop="addressLocality">Windermere</span>,
         <span itemprop="addressRegion">FL</span>
-        <span itemprop="postalCode">34744</span>
+        <span itemprop="postalCode">34786</span>
       </div>
       <div class="d-none" itemprop="geo" itemscope itemtype="https://schema.org/GeoCoordinates">
         <meta itemprop="latitude" content="28.303201505096695" />

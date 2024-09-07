@@ -62,7 +62,7 @@ vcards_path:  assets/vcards
 title: Hair By Lisa Cardillo
 # This is the site description - must be between 25 and 160 characters for Bing SEO
 description: >
-  Lisa Cardillo is one of the best Hair Stylists in the Kissimmee, Florida
+  Lisa Cardillo is one of the best Hair Stylists in the Windermere, Florida
   area. She mentors other stylists and is licensed in New York, Maryland, and Florida.
 
 # Website language
@@ -70,8 +70,8 @@ lang: en-US
 # Header Title
 header-title: Hair By Lisa Cardillo
 # Header Tagline
-header-tagline1: Master Colorist and Hair Stylist
-header-tagline2: Working and Living in Kissimmee, FL
+header-tagline1: Master Colorist & Hair Stylist
+header-tagline2: Servicing Windermere & Central Florida
 
 # The general contact default email address
 email: hairbylisacardillo@gmail.com

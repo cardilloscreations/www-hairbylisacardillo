@@ -1,6 +1,6 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//macOS 14.4.1//EN
+PRODID:-//Apple Inc.//macOS 14.6.1//EN
 N:Cardillo;Lisa;;;
 FN:Lisa Cardillo
 ORG:Hair By Lisa Cardillo;
@@ -9,7 +9,7 @@ item1.EMAIL;type=INTERNET;type=pref:hairbylisacardillo@gmail.com
 item1.X-ABLabel:Salon Email
 item2.TEL;type=pref:+1 (407) 887-7776
 item2.X-ABLabel:Salon Phone
-item3.ADR;type=pref:;;1617 E. Vine St;Kissimmee;FL;34744;U.S.A.
+item3.ADR;type=pref:;;625 Main St\, Suite #107;Windermere;FL;34786;U.S.A.
 item3.X-ABLabel:Salon Address
 item4.URL;type=pref:https://hairbylisacardillo.com
 item4.X-ABLabel:Salon Homepage

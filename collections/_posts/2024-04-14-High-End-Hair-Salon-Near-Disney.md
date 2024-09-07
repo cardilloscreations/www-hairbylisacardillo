@@ -3,12 +3,12 @@ layout: post
 title:  'High End Hair Stylist Near Disney and Universal Studios'
 image: High-End-Hair-Salon-Near-Disney.webp
 description: >
-  Looking for a Hair Stylist in Central Florida? Lisa is a Master Stylist & Colorist  providing services in Kissimmee, just a short drive from the Orlando area.
+  Looking for a Hair Stylist in Central Florida? Lisa is a Master Stylist & Colorist  providing services in Windermere, just a short drive from the Orlando area.
 ---
 
 <div class="article-text">
   <section class="intro">
-  Lisa Cardillo is a Master Hair Stylist and Master Hair Colorist, providing <b>excellent services at reasonable prices</b> in Kissimmee, FL. This post explains some of the specialty services she provides, which make it worth the short drive to visit her.
+  Lisa Cardillo is a Master Hair Stylist and Master Hair Colorist, providing <b>excellent services at reasonable prices</b> in Windermere, FL. This post explains some of the specialty services she provides, which make it worth the short drive to visit her.
   </section>
   <!--excerpt-->
   <h3 class="lead" id="why-lisa">
@@ -44,7 +44,7 @@ description: >
   </h3>
   <section>
     <p>
-    The salon Lisa works from is in a pleasant area of Kissimmee, FL. This allows her to provide hair services to clients throughout the <b>entire Central Florida</b> and Orlando area. Her service area includes: Kissimmee, Poinciana, St. Cloud, Davenport, Hayes City, Hunters Creek, Orlando, Champions Gate, Celebration, Lake Nona, Windermere, and more.
+    The salon Lisa works from is in a pleasant area of Windermere, FL. This allows her to provide hair services to clients throughout the <b>entire Central Florida</b> and Orlando area. Her service area includes: Windermere, Doctor Philips, Orlando, Davenport, Hayes City, Hunters Creek, Champions Gate, Celebration, Lake Nona, and more.
     </p>
   </section>
 </div>
